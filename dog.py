@@ -1,4 +1,4 @@
-class dog
+class dog:
     def __init__(self,dog):
         self.name = dog
         self.trick_list = []
