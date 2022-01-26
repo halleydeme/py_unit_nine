@@ -37,6 +37,7 @@ def main():
     compare_cards(d,i)
     compare_cards(e,j)
 
+
 main()
 
 
